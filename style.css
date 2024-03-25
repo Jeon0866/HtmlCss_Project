@@ -81,7 +81,7 @@ body {
 .home-content {
     background: none;
     max-width: 800px;
-    margin-right: 5%;
+    margin-right: 3%;
 }
 
 .home-content h1 {
@@ -338,22 +338,25 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('./img1.jpeg');
+    background-image: url('#');
 }
 .card[for="c2"] {
-    background-image: url('./img2.jpeg');
+    background-image: url('#');
 }
 .card[for="c3"] {
-    background-image: url('./img3.jpeg');
+    background-image: url('#');
 }
 .card[for="c4"] {
-    background-image: url('./img4.jpeg');
+    background-image: url('#');
 }
 .card[for="c5"] {
-    background-image: url('./img5.jpeg');
+    background-image: url('#');
 }
 .card[for="c6"] {
-    background-image: url('./img6.jpeg');
+    background-image: url('#');
+}
+.card[for="c7"] {
+    background-image: url('#');
 }
 
 /* progress bar */
@@ -505,7 +508,7 @@ input:checked + label .description {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 23px;
+    margin-left: 40px;
 }
 
 /* Styling the area of the slides */

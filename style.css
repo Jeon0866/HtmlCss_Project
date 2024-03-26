@@ -81,7 +81,7 @@ body {
 .home-content {
     background: none;
     max-width: 800px;
-    margin-right: 3%;
+    margin-right: 4%;
 }
 
 .home-content h1 {
@@ -495,8 +495,6 @@ input:checked + label .description {
     width: 100%;
 }
 
-
-
 .education-content .content .year {
     font-size: 1.5rem;
     color: #00abf0;
@@ -508,7 +506,12 @@ input:checked + label .description {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 40px;
+    margin-left: 25px;
+}
+
+/* slides card 6 */
+.responsive-google-slides > p {
+    margin-right: 25px;
 }
 
 /* Styling the area of the slides */
